@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T16:40:22Z" name="Default suite" finished-at="2022-12-07T16:40:27Z" duration-ms="4847">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T16:40:22Z" name="Default test" finished-at="2022-12-07T16:40:27Z" duration-ms="4847">
+      <class name="maventen.Website_Test">
+        <test-method signature="Url()[pri:0, instance:maventen.Website_Test@39d9314d]" started-at="2022-12-07T16:40:22Z" name="Url" finished-at="2022-12-07T16:40:27Z" duration-ms="4833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+      </class> <!-- maventen.Website_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
